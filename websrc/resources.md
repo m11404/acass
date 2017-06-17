@@ -18,6 +18,8 @@ Course at IIT Kanpur, at the level of junior undergraduates / graduates
 
 
 
+## Theoretical Resources
+
 ### Textbooks
 
 - [Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/) - free pdf 
@@ -31,14 +33,9 @@ copy available online.
 - [Matrix Algebra Overview](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf)
 
 
-### Programming resources 
-
-- [Kaggle](http://kaggle.com/) hosts machine learning contests. There are some that are just for practice,
- and are a good way to build intuition about models, as well as understand how to clean up and actually
- apply models to real life data. Some contests also have prize money, so participation can be for more
- than just knowledge.
 
 
+## Programming resources 
 
 ### Data resources
 - [UCI Repository](https://archive.ics.uci.edu/ml/) Hosts a myriad array of different kinds of datasets.
@@ -56,6 +53,11 @@ data that has been collected by the government.
 - [EU Data portal](https://data.europa.eu/euodp/en/data) European Union collected datasets.
 
 
+- [Kaggle](http://kaggle.com/) hosts machine learning contests. There are some that are just for practice,
+ and are a good way to build intuition about models, as well as understand how to clean up and actually
+ apply models to real life data. Some contests also have prize money, so participation can be for more
+ than just knowledge.
+
 ### Example IPython Notebooks
 
 - [Iris](http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
@@ -63,7 +65,26 @@ data that has been collected by the government.
 - [Comparison of Classifiers](http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py)
 - [Digit showing](http://scikit-learn.org/stable/auto_examples/datasets/plot_digits_last_image.html#sphx-glr-auto-examples-datasets-plot-digits-last-image-py)
 
+Some more examples can be found in the course repository [here](https://github.com/govg/acass/tree/master/code/examples). A lot more can be found from Scikit Learn's documentation.
+
+
+### Other resources
+
+- [Neural network playground](http://playground.tensorflow.org/) : lets you create toy neural networks
+to see the power, on different kinds of datasets. This is an amazing tool to understand how neural networks possibly work, and on the toy datasets, it is easy to see the combination of perceptrons learning together!
+
+- [Jupyter Notebook](https://try.jupyter.org/) : lets you create online jupyter notebooks. You can 
+ try out the majority of tutorials I have posted using this tool.
+
+- [Stanford Tensorflow course](http://web.stanford.edu/class/cs20si/syllabus.html) This should be a 
+good place to start for all of your neural network needs.
+
+- [Tensorflow 1](https://docs.google.com/presentation/d/1Kvo-Mq0cqnBHJrTHc51wWDC3cfvYsPDR3owP8LjqNhg/edit#slide=id.gc6f73a04f_0_0) : Part 1 of an introduction to Tensorflow, by Aadil. 
+
+- [Tensorflow 2](https://docs.google.com/presentation/d/1_tRL4wEdZiQdVU64Q9DADWkigji2ih_en_7ZRkO-nt8/edit#slide=id.g203e5a7ae5_0_50) : Part 2 of an introduction to Tensorflow, by Aadil.
+
 ---
+
 
 Other resources shall be put up later.
 
